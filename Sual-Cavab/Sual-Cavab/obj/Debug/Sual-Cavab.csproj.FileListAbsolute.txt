@@ -1,0 +1,6 @@
+c:\users\djeff\documents\visual studio 2017\Projects\Sual-Cavab\Sual-Cavab\bin\Debug\Sual-Cavab.exe.config
+c:\users\djeff\documents\visual studio 2017\Projects\Sual-Cavab\Sual-Cavab\bin\Debug\Sual-Cavab.exe
+c:\users\djeff\documents\visual studio 2017\Projects\Sual-Cavab\Sual-Cavab\bin\Debug\Sual-Cavab.pdb
+c:\users\djeff\documents\visual studio 2017\Projects\Sual-Cavab\Sual-Cavab\obj\Debug\Sual-Cavab.csprojResolveAssemblyReference.cache
+c:\users\djeff\documents\visual studio 2017\Projects\Sual-Cavab\Sual-Cavab\obj\Debug\Sual-Cavab.exe
+c:\users\djeff\documents\visual studio 2017\Projects\Sual-Cavab\Sual-Cavab\obj\Debug\Sual-Cavab.pdb

@@ -1,0 +1,6 @@
+c:\users\djeff\documents\visual studio 2017\Projects\Sual-Cavab\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\djeff\documents\visual studio 2017\Projects\Sual-Cavab\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\djeff\documents\visual studio 2017\Projects\Sual-Cavab\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\djeff\documents\visual studio 2017\Projects\Sual-Cavab\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\djeff\documents\visual studio 2017\Projects\Sual-Cavab\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+c:\users\djeff\documents\visual studio 2017\Projects\Sual-Cavab\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
